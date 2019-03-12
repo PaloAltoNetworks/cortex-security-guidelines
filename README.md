@@ -1,5 +1,3 @@
-# Partner Security Guidelines for Cortex Apps
-
 <table cellpadding="2">
 <tbody>
 <tr>
